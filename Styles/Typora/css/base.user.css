@@ -1,0 +1,20 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Cormorant", "EB Garamond", "Tiro Devanagari Sanskrit" !important;
+  /* font-variant: small-caps !important;  */
+}
+
+body,
+#write {
+  /* font-family: P22OperinaPro !important; */
+  font-family: "EB Garamond", "Ysabeau", Eczar, "Tiro Devanagari Sanskrit" !important;
+}
+
+pre,
+code {
+  font-family: "Iosevka SS14", Fira Code !important;
+}
